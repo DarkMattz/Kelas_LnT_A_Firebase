@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "208816228524",
+    "project_id": "kelas-lnt-a",
+    "storage_bucket": "kelas-lnt-a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208816228524:android:50d2d3f55f6ee7049eb709",
+        "android_client_info": {
+          "package_name": "com.febry.kelaslntafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208816228524-0u8luge58kcqtb3ad7vcscid0l0g2ido.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBozresr2_DdnOViBVH35jpB01uu2WoSOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208816228524-0u8luge58kcqtb3ad7vcscid0l0g2ido.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
